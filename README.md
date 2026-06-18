@@ -1,14 +1,44 @@
-# Osinter
-Osint Tool
+Osinter
+OSINT Tool - Social Media & Network Intelligence
+
 Writed by Serpten
-# Clone the repository
-  git clone https://github.com/yourusername/osint-tool.git
-  cd osint-tool
-  
-# Install dependencies
-  pip install -r requirements.txt
-  
-# Run the tool
-  python main.py
-Dont Use İllegal
-  
+
+About
+Osinter is an OSINT tool for gathering information from public sources and social media platforms.
+
+Features
+Social Media Scanner - 45+ platforms
+
+IP Geolocation & ISP Info
+
+Phone Number Validation
+
+WHOIS Lookup
+
+DNS Lookup
+
+Reverse IP Lookup
+
+Installation
+text
+git clone https://github.com/yourusername/osint-tool.git
+cd osint-tool
+pip install -r requirements.txt
+python main.py
+Usage
+text
+[1] Find Social Media
+[2] Search IP
+[3] Search Phone
+[4] Search WHOIS
+[5] Search DNS
+[6] Reverse IP Lookup
+Requirements
+Python 3.6+
+
+requests
+
+colorama
+
+Legal
+For educational purposes only. Don't use illegally.

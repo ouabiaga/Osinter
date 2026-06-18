@@ -1,12 +1,14 @@
 # Osinter
-  # Clone the repository
+Osint Tool
+Writed by Serpten
+# Clone the repository
   git clone https://github.com/yourusername/osint-tool.git
   cd osint-tool
   
-  # Install dependencies
+# Install dependencies
   pip install -r requirements.txt
   
-  # Run the tool
+# Run the tool
   python main.py
 Dont Use İllegal
   

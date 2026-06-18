@@ -1,5 +1,5 @@
 # Osinter
-'''bash
+"""bash
   # Clone the repository
   git clone https://github.com/yourusername/osint-tool.git
   cd osint-tool
@@ -9,5 +9,5 @@
   
   # Run the tool
   python main.py
-  '''
+"""
   

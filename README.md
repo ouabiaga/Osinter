@@ -19,7 +19,7 @@ Osinter is an OSINT tool for gathering information from public sources and socia
 git clone https://github.com/yourusername/osint-tool.git
 cd osint-tool
 pip install -r requirements.txt
-python main.py
+python Osintter.py
 ```
 
 ## Usage
